@@ -1,5 +1,5 @@
 {
-    "name": "readability",
+    "name": "sr3d-readability",
     "version": "0.1.0",
     "description": "Arc90's readability.js adapted to node.js",
     "keywords": [
@@ -13,6 +13,12 @@
         }
     ],
     "contributors": [
+        {
+            "name": "Alex Le",
+            "email": "alexle@marrily.com",
+            "web": "http://alexle.net"
+        },
+
         {
             "name": "Arrix",
             "email": "arrixzhou@gmail.com",
