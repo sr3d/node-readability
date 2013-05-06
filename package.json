@@ -42,7 +42,8 @@
     "dependencies": {
        "mjsunit.runner": ">=0.1.0",
        "jsdom": ">=0.1.21",
-       "htmlparser": ">=1.7.3"
+       "htmlparser": ">=1.7.3",
+       "moment": "*"
     },
     "engines" : { "node" : ">=0.2.5" },
     "directories": {
