@@ -47,10 +47,11 @@
     ],
     "dependencies": {
        "mjsunit.runner": ">=0.1.0",
-       "jsdom": ">=0.1.21",
+       "jsdom": ">=0.6.1",
        "htmlparser": ">=1.7.3",
        "moment": "*",
-       "dateish": "*"
+       "dateish": "*",
+       "html5": "*"
     },
     "engines" : { "node" : ">=0.2.5" },
     "directories": {
