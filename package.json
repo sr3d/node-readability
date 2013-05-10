@@ -1,6 +1,6 @@
 {
     "name": "readability",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "description": "sr3d's improvement to readability.js",
     "keywords": [
         "readability"
