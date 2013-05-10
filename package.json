@@ -1,7 +1,7 @@
 {
     "name": "readability",
-    "version": "0.3.0",
-    "description": "Arc90's readability.js adapted to node.js",
+    "version": "0.3.1",
+    "description": "sr3d's improvement to readability.js",
     "keywords": [
         "readability"
     ],
@@ -31,18 +31,18 @@
     ],
     "bugs": {
         "mail": "arrixzhou@gmail.com",
-        "web": "http://github.com/arrix/node-readability/issues"
+        "web": "http://github.com/sr3d/node-readability/issues"
     },
     "licenses": [
         {
             "type": "MIT",
-            "url": "http://github.com/arrix/node-readability/LICENSE.txt"
+            "url": "http://github.com/sr3d/node-readability/LICENSE.txt"
         }
     ],
     "repositories": [
         {
             "type": "git",
-            "url": "http://github.com/arrix/node-readability.git"
+            "url": "http://github.com/sr3d/node-readability.git"
         }
     ],
     "dependencies": {
@@ -50,7 +50,8 @@
        "jsdom": ">=0.1.21",
        "htmlparser": ">=1.7.3",
        "moment": "*",
-       "memwatch": "*"
+       "memwatch": "*",
+       "dateish": "*"
     },
     "engines" : { "node" : ">=0.2.5" },
     "directories": {
